@@ -1,0 +1,6 @@
+MY TO-DO LIST
+
+1. Complete CSD310 assignments.
+2. Practice Git commands.
+3. Study database development.
+4. Attend classes on time.
